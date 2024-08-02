@@ -21,10 +21,3 @@ jobs:
 
    - name: Run Bandit Scan
      run: bandit -r .
-
-
-
-
-   
-
-   
